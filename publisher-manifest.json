@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "46b471727a0bbf58b97b2cb0",
+  "owner": "vrwkasw",
+  "repo": "page-6b121794324d137e558fbaba",
+  "title": "51加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6b121794324d137e558fbaba",
+      "a": "51加速",
+      "b": "稳定全球clash加速器",
+      "entity": "51加速",
+      "brand": "51加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "49ee5808ea4a9c920e15d9cafcf3ede2504c13fb8d969eb586117f65c9197586",
+      "content": {
+        "primary_entity": "51加速",
+        "keyword1": "51加速",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端：Windows、macOS、Android、iOS 与路由器各有适配方案。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择合适的套餐并完成订阅配置，即可开始使用 51加速。",
+          "AI_CLOSING_TITLE": "即刻开始",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付价格分别为 ¥15、¥35 和 ¥85，年付可享更优价格。基础版适合 3 台设备以内、每月 100GB 流量需求，旗舰版提供 300GB 流量和 IPLC 专线游戏加速优化，团队版则以 1000GB 流量和 20 台设备支持面向多人协作场景。结合设备类型与用量选择套餐，并按客户端文档完成订阅配置，即可获得稳定连接体验。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备支持到使用建议，帮助你更顺畅地开始。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "根据每月流量和同时在线设备数选择套餐，避免资源不足或浪费。",
+          "AI_FEATURE_TEXT_2": "不同设备有对应客户端，手机、电脑与路由器均可按文档配置订阅。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格更优，团队版适合多设备集中管理需求。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TITLE_2": "多端客户端适配",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "三个步骤帮助你从选择到开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "51加速提供面向多设备的网络加速服务，套餐覆盖个人与团队场景。根据每月流量和同时在线设备数选择合适的版本，再依照客户端文档完成订阅配置，即可在日常浏览、流媒体与游戏等场景中获得更顺畅的连接体验。",
+          "AI_HERO_SUBTITLE": "稳定连接，按需选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐满足不同用量",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付价格更实惠",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备，适合轻度使用；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，适合多人协作。年付均比月付更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数量，对比基础版、旗舰版与团队版的权益，选定合适套餐。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量和线路类型，检查是否满足当前网络环境与使用需求。",
+          "AI_STEP_TEXT_3": "按照对应客户端的配置文档导入订阅信息，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "51加速·稳定连接",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。流量与设备数随档位递增，按实际需求选择即可。",
+          "AI_FAQ_ANSWER_2": "51加速提供 Clash、Shadowrocket、Clash for Android 等常见客户端的订阅配置方式，不同系统与版本的适配情况存在差异，建议参照对应客户端文档完成导入。",
+          "AI_FAQ_ANSWER_3": "年付方案相比月付通常更划算，例如基础版按年付为 ¥150/年，旗舰版为 ¥350/年，团队版为 ¥850/年。长期使用可选择年付，短期试用建议先按月付费。",
+          "AI_FAQ_ANSWER_4": "旗舰版与团队版分别支持 5 台和 20 台设备同时在线，基础版支持 3 台。多设备用户可直接选择团队版，家庭或小型团队一般旗舰版即可满足。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线节点，对游戏延迟与流媒体播放有优化；团队版提供 VIP 高带宽节点与企业定制路由，更适合多用户或对带宽要求较高的办公场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "51加速支持哪些客户端？",
+          "AI_FAQ_QUESTION_3": "年付和月付怎么选更划算？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数量怎么计算？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合什么场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xw4f8c.cn",
+    "host": "xw4f8c.cn"
+  },
+  "file_hashes": {
+    "index.html": "a88facc21d6d4498a1cf19e8679b63599a2842b550e2bc4336f8d163b7fd856b",
+    "sitemap.xml": "7ce2d6251b17b1be9ed7bdaba4173bfa8ff41320a9d42351598224676d11d91c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "18d727608ab5acd0d5a9f23053ca28289a0677df38b46a42f1d46fa26e08d225",
+    "robots.txt": "78567ef02c3280c34be73a72287b6c3365a0e41a4aaeeb05c7621277942d803c",
+    "2fc53a77c2e67f5e8e35cb77b7679adb.txt": "ef34c580c721088c5b0380e5813409ea32b39c26a23c578ce8f07a3c4abc097f"
+  },
+  "revision": "0c461335c719789fca9a1f7dd2321cdd66678db186611df2ab486fde1f5052ba"
+}
